@@ -13,7 +13,7 @@ The project involved working with real-world style datasets, performing analytic
   - Device type breakdown
   - Geographic mapping of production sites
   - Integrated dashboard with dynamic filters
-![Tableau Dashboard Screenshot](Tableau Task Dashboard.png)
+![Tableau Dashboard Screenshot](https://raw.githubusercontent.com/Vk18phoenix/Deloitte-Australia-Data-Analytics-Simulation/main/Tableau%20Task%20Dashboard.png)
 
 - **`Equality_Table_Completed.xlsx`**  
   Processed Excel file classifying **Equality Scores** into:
@@ -21,7 +21,7 @@ The project involved working with real-world style datasets, performing analytic
   - **Unfair** (score between -20 and -10 or between 10 and 20)
   - **Highly Discriminative** (score below -20 or above 20)  
   The classification was automated using custom conditional formulas.
-![Equity Table Snapshot](Equity Table snipshot.png)
+![Equity Table Snapshot](https://raw.githubusercontent.com/Vk18phoenix/Deloitte-Australia-Data-Analytics-Simulation/main/Equity%20Table%20snipshot.png)
 
 ---
 
