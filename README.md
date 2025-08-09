@@ -1,4 +1,5 @@
 # Deloitte Australia Data Analytics Simulation (August 2025)
+![Tableau Task Dashboard](tableau-task-dashboard.png)
 
 This repository showcases my completed work for the **Deloitte Australia Data Analytics Virtual Job Simulation** hosted on Forage.  
 The project involved working with real-world style datasets, performing analytical tasks in Excel, and building a professional dashboard in Tableau to deliver clear, actionable insights.
