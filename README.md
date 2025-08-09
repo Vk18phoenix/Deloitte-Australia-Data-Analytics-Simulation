@@ -1,5 +1,7 @@
 # Deloitte Australia Data Analytics Simulation (August 2025)
 
+![Tableau Dashboard Preview](images/tableau-task-dashboard.png)
+
 This repository showcases my completed work for the **Deloitte Australia Data Analytics Virtual Job Simulation** hosted on Forage.  
 The project involved working with real-world style datasets, performing analytical tasks in Excel, and building a professional dashboard in Tableau to deliver clear, actionable insights.
 
@@ -9,19 +11,13 @@ The project involved working with real-world style datasets, performing analytic
 
 - **`Deloitte_Analytics_Dashboard.twbx`**  
   Fully interactive Tableau Packaged Workbook containing multiple views:
-  - Factory-level analysis
-  - Device type breakdown
-  - Geographic mapping of production sites
-  - Integrated dashboard with dynamic filters
-![Tableau Dashboard Screenshot](https://raw.githubusercontent.com/Vk18phoenix/Deloitte-Australia-Data-Analytics-Simulation/main/Tableau%20Task%20Dashboard.png)
+
+  ![Tableau Task Dashboard](images/tableau-task-dashboard.png)
 
 - **`Equality_Table_Completed.xlsx`**  
   Processed Excel file classifying **Equality Scores** into:
-  - **Fair** (score between -10 and +10)
-  - **Unfair** (score between -20 and -10 or between 10 and 20)
-  - **Highly Discriminative** (score below -20 or above 20)  
-  The classification was automated using custom conditional formulas.
-![Equity Table Snapshot](https://raw.githubusercontent.com/Vk18phoenix/Deloitte-Australia-Data-Analytics-Simulation/main/Equity%20Table%20snipshot.png)
+
+  ![Equity Table Snapshot](images/equity-table-snapshot.png)
 
 ---
 
@@ -87,6 +83,6 @@ The completed simulation strengthened my skills in:
 ## 📬 Contact
 
 If you’d like to discuss this project or collaborate on data analytics work, feel free to connect:  
-**LinkedIn:** [Your LinkedIn URL]  
-**GitHub:** [Your GitHub Profile Link]  
-**Email:** [Your Email Address]  
+**LinkedIn:** https://www.linkedin.com/in/vk18phoenix/  
+**GitHub:**  https://github.com/Vk18phoenix  
+**Email:** vkalyan782@gmail.com
